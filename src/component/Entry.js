@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import Navbar from './Navbar'
 
 const Entry = () => {
 
@@ -17,6 +18,7 @@ const Entry = () => {
 
   return (
     <div>
+        <Navbar/>
         
 
 
